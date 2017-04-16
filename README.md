@@ -2,15 +2,7 @@ babel-plugin-fail-explicit demo
 ===============================
 **A simple demo of babel-plugin-fail-explicit**
 
-```js
-// index.js
-const foo = 1
-const bar = []
-
-foo + bar
-// ^ TypeError: Unexpected coercion of type "number" and type "array" using "+" operator
-```
-
+This project lets you easily experiment with `babel-plugin-fail-explicit`
 
 ## Setup
 ```bash
