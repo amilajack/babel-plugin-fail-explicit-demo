@@ -1,9 +1,8 @@
 // -----------
 // Examples
 // -----------
-
 const foo = {}
-const bar = []
+const bar = require('./array')
 
 foo + bar
 
