@@ -4,6 +4,8 @@ babel-plugin-fail-explicit demo
 
 This project lets you easily experiment with `babel-plugin-fail-explicit`
 
+![demo](https://raw.githubusercontent.com/amilajack/babel-plugin-fail-explicit-demo/7ed9a29ec61d505f2b3ce6be18145c74eb3bc5f5/demo.gif)
+
 ## Setup
 ```bash
 git clone https://github.com/amilajack/babel-plugin-fail-explicit-demo.git
