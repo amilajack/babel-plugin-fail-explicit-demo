@@ -1,3 +1,3 @@
 const some = {}
-some.foo.bar.bax // fails
+console.log(some + 12)
 
