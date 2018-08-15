@@ -1,5 +1,8 @@
 babel-plugin-fail-explicit demo
 ===============================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/babel-plugin-fail-explicit-demo.svg)](https://greenkeeper.io/)
+
 **A simple demo of babel-plugin-fail-explicit**
 
 This project lets you easily experiment with `babel-plugin-fail-explicit`
