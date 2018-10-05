@@ -19,6 +19,6 @@
   "homepage": "https://github.com/amilajack/babel-plugin-fail-explicit-demo#readme",
   "devDependencies": {
     "babel-plugin-fail-explicit": "0.0.6",
-    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1"
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2"
   }
 }
